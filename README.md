@@ -9,7 +9,7 @@ Simply open neat_flappy_birds.py and click 'run'. The game should start and the 
 You can turn off the red lines in the code by switching 'DRAW_LINES' to False.
 
 # Resources
-I highly recommend reading Kenneth O. Stanley's and Risto Miikkulainen's paper, "Efficient Evolution of Neural Network Topologies" http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf which is sort of the grandfather of Neat algorithms. 
+I highly recommend reading Kenneth O. Stanley's and Risto Miikkulainen's paper, [Efficient Evolution of Neural Network Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf) which is the grandfather of Neat algorithms. 
 
 Also check out Ken's webpage here - http://www.cs.ucf.edu/~kstanley/#publications
 
