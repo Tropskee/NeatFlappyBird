@@ -14,5 +14,3 @@ You can turn off the red lines in the code by switching 'DRAW_LINES' to False.
 I highly recommend reading Kenneth O. Stanley's and Risto Miikkulainen's paper, [Efficient Evolution of Neural Network Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf) which is the grandfather of Neat algorithms. 
 
 Also check out Ken's webpage here - http://www.cs.ucf.edu/~kstanley/#publications
-
-My code was highly influenced by TechWithTim's repository here - https://github.com/techwithtim/NEAT-Flappy-Bird. Also check out his youtube channel.
