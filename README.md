@@ -1,7 +1,7 @@
 # NeatFlappyBird
 A flappy bird replica game where AI agents try to go full Buzz Lightyear (to infinity and beyond!).
 
-![Game Images](imgs/Game-1.png)(imgs/Game-2.png)
+![Game Images](imgs/Game-2.png)
 
 # NEAT - Neuroevolution of Augmenting Topologies
 Neuroevolution, the artificial evolution of neural networks using genetic algorithms, can mutate (change) both connection weights and network structures. Connection weights mutate as in any NE system, with each connection either perturbed or not. Structural mutations, which expand the genome, occur in two ways. In the add connection mutation, a single new connection gene is added connecting two previously unconnected nodes. In the add node mutation an existing connection is split and the new node placed where the old connection used to be. The old connection is disabled and two new connections are added to the genome. This method of adding nodes  integrates new nodes immediately into the network.
