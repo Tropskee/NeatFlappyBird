@@ -19,4 +19,4 @@ I highly recommend reading Kenneth O. Stanley's and Risto Miikkulainen's paper, 
 
 Also check out Ken's webpage here - http://www.cs.ucf.edu/~kstanley/#publications
 
-![FlappyBird_Gameplay](imgs/Gameplay_video.gif)
+![FlappyBird_Gameplay](imgs/FlappyBird_Gameplay.gif)
