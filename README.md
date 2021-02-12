@@ -19,4 +19,6 @@ I highly recommend reading Kenneth O. Stanley's and Risto Miikkulainen's paper, 
 
 Also check out Ken's webpage here - http://www.cs.ucf.edu/~kstanley/#publications
 
+Check out a video of the gameplay below. The AI agent usually can beat the game in only a few generations, but occasionally it can never beat it! It all depends on how the network mutates.. You never know percisely what the RL algorithm will do, which is what makes this so much fun (and possibly frustrating!).
+
 ![FlappyBird_Gameplay](imgs/FlappyBird_GamePlay.gif)
