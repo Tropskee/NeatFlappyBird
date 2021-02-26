@@ -1,7 +1,7 @@
 # NeatFlappyBird
 A flappy bird replica game where AI agents try to go full Buzz Lightyear (to infinity and beyond!).
 
-![Game Images](imgs/Gameplay1.png)                    ![](imgs/Gameplay2.png)
+![Game Images](imgs/Gameplay1.png)![](imgs/Gameplay2.png)
 
 Checkout the gameplay video below!
 
