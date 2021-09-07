@@ -1,5 +1,5 @@
 # NeatFlappyBird
-A flappy bird replica game where AI agents try to go full Buzz Lightyear (to infinity and beyond!).
+A flappy bird replica game where AI agents try to go full Buzz Lightyear (to infinity and beyond!). Utilizes PyGame to recreate the classic flappy birds mobile game and the NEAT algorithm and library to absolutely demolish any score set by a human being.
 
 ![Game Images](imgs/Gameplay1.png)![](imgs/Gameplay2.png)
 
